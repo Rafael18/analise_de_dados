@@ -6,11 +6,11 @@
             "porcoes": 8,
             "ingredientes": [
                 {
-                    "ingrediente": "Farinha de Trigo",
+                    "ingrediente": "Farinha de trigo",
                     "quantidade": "2 xícaras"
                 },
                 {
-                    "ingrediente": "Açúcar",
+                    "ingrediente": "Açucar",
                     "quantidade": "1 xícara"
                 },
                 {
@@ -33,7 +33,7 @@
             "porcoes": 4,
             "ingredientes": [
                 {
-                    "ingrediente": "Alface romana",
+                    "ingrediente": "Alface Romana",
                     "quantidade": "1 cabeça"
                 },
                 {
@@ -45,7 +45,7 @@
                     "quantidade": "1/2 xícara"
                 },
                 {
-                    "ingrediente": "Molho caesar",
+                    "ingrediente": "Molho caeser",
                     "quantidade": "1/4 xícara"
                 }
             ]
@@ -72,7 +72,7 @@
                     "quantidade": "1/4 xícara"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
+                    "ingrediente": "Queijo parmsão",
                     "quantidade": "1/4 xícara"
                 }
             ]
